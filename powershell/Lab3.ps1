@@ -1,0 +1,1 @@
+﻿ Send-MailMessage -To "reedws@ucmail.uc.edu" -From "riley7kanavel@gmail.com" -Subject "IT3038C Windows SysInfo" -Body $Body -SmtpServer smtp.gmail.com -port 587 -UseSSL -Credential (Get-Credential) | out-file C:\services.txt
