@@ -1,0 +1,1 @@
+﻿Hide-WindowsUpdate -KBArticleID KB4052473
